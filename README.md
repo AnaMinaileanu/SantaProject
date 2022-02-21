@@ -10,14 +10,14 @@ All toys have the following characteristics:
 - a type (examples for a car: racing car, remote-control car, lego car)
 
 There are 4 possibilities of toys Santa can provide, each having its own characteristics, along with the aforementioned ones:
-- *** Classic Toys ***
+- ***Classic Toys***
     - material
     - colour 
-- *** Educative Toys ***
+- ***Educative Toys***
     - ability they help develop (reading, comprehension, thinking etc)
-- *** Electronic Toys ***
+- ***Electronic Toys***
     - number of batteries
-- *** Modern Toys *** (have the characteristics of both educative and electronic toys)
+- ***Modern Toys*** (have the characteristics of both educative and electronic toys)
     - number of batteries ( =1 )
     - ability they help develop ( ="general ")
     - brand 
@@ -34,8 +34,8 @@ For all the children in the system, Santa has the next set of data:
 - toys 
     - the number of which corresponds with the number of good deeds
 
-The *** Good *** Children receive a number of sweets.
-The *** Bad *** Children receive a number of coals.
+The ***Good*** Children receive a number of sweets.
+The ***Bad*** Children receive a number of coals.
 
 For evey Good Child the number of good deeds has to be >= 10. Otherwise the value has to be reintroduced.
 
